@@ -1,0 +1,1 @@
+It means that even though it the variable was called in the HMTL it has not been defined in the Vue app. It can be ignored in the testing phase, but when you actually want to use that variable with Vue, you need to define it in the app.
